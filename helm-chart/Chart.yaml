@@ -1,0 +1,7 @@
+apiVersion: v2
+name: gam
+description: Suporte Kubernetes para recebimento de requisição do Frontend GAM hospedado no AWS S3.
+type: application
+version: 0.0.1
+appVersion: "pipeline.2210.6"
+icon: https://upload.wikimedia.org/wikipedia/commons/8/8f/Logotipo_Nasajon_vertical.png
